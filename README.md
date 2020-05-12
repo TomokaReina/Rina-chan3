@@ -1,2 +1,2 @@
 # Rina-chan3
-discord music bot made for practice and fun
+discord music bot made using JavaScript for practice and fun
